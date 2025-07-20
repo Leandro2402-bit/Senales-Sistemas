@@ -22,6 +22,8 @@ Diseñar, simular y visualizar un sistema de comunicaciones digitales basado en 
 
 El proyecto culmina en el desarrollo de un **dashboard interactivo en Streamlit** y un **video explicativo**, integrando herramientas como la **Transformada de Fourier**, **Filtros Digitales**, **Señales I/Q**, **Modulación QAM**, y **OFDM**.
 
+El video explicativo sera enviado como anexo en link de YouTube al correo institucional al profesor Andrés Marino Álvarez Meza
+
 ---
 
 ## 📂 Estructura del Repositorio
