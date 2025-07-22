@@ -35,4 +35,5 @@ El video explicativo sera enviado como anexo en link de YouTube al correo instit
 ├── Modulación QAM en Wifi-5G.PNG
 ├── README.MD
 │── Resumen_Conceptos_Clave.ipynb
+│── constelacion_qam.gif
 
