@@ -30,7 +30,7 @@ El video explicativo sera enviado como anexo en link de YouTube al correo instit
 
 ```plaintext
 📁 PROYECTO
-│── ├── resumen_conceptos_Clave.ipynb
-├── 📁 dashboard
+│── Resumen_Conceptos_Clave.ipynb
+├── Dashboard_Proyecto
 ├── 📜 README.md
 
