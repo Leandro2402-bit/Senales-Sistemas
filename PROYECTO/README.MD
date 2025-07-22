@@ -32,6 +32,7 @@ El video explicativo sera enviado como anexo en link de YouTube al correo instit
 📁 PROYECTO
 │── Animación_Constelación_QAM.ipynb
 ├── Dashboard_Proyecto
-├── 📜 README.MD
+├── Modulación QAM en Wifi-5G
+├── README.MD
 │── Resumen_Conceptos_Clave.ipynb
 
