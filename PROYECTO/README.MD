@@ -2,38 +2,50 @@
 
 ## 🧠 De Fourier al WiFi/5G: Anatomía de una Señal Inalámbrica
 
-**Universidad Nacional de Colombia - Sede Manizales**  
-**Curso:** Señales y Sistemas  
-**Profesor:** Andrés Marino Álvarez Meza, Ph.D.  
-**Fecha de entrega:** 24 de julio de 2025
+**🎓 Universidad Nacional de Colombia - Sede Manizales**  
+**📚 Curso:** Señales y Sistemas  
+**👨‍🏫 Profesor:** Andrés Marino Álvarez Meza, Ph.D.  
+**📅 Fecha de entrega:** 24 de julio de 2025
 
 ---
 
 ## 👥 Integrantes del equipo
 
-- **Leandro Zapata Marín**  
-- **Hamerson Jhoel Piarpuezan Piarpuezan**
+- 🧑‍🔬 **Leandro Zapata Marín**  
+- 🧑‍🔬 **Hamerson Jhoel Piarpuezan Piarpuezan**
 
 ---
 
 ## 🎯 Objetivo del Proyecto
 
-Diseñar, simular y visualizar un sistema de comunicaciones digitales basado en los principios fundamentales de señales y sistemas, para comprender cómo tecnologías como **Wi-Fi** y **5G** permiten la transmisión de información de alta velocidad.
+El objetivo del proyecto es **diseñar, simular y visualizar** un sistema de comunicaciones digitales que permita entender cómo tecnologías como **Wi-Fi y 5G** transmiten información a través del aire.
 
-El proyecto culmina en el desarrollo de un **dashboard interactivo en Streamlit** y un **video explicativo**, integrando herramientas como la **Transformada de Fourier**, **Filtros Digitales**, **Señales I/Q**, **Modulación QAM**, y **OFDM**.
+Se busca integrar los siguientes conceptos fundamentales:
 
-El video explicativo sera enviado como anexo en link de YouTube al correo institucional al profesor Andrés Marino Álvarez Meza
+- 🔁 **Transformada de Fourier (DFT/FFT)**
+- 🎛 **Filtros Digitales (FIR/IIR)**
+- ♾ **Transformada de Hilbert**
+- 🧭 **Señales en fase y cuadratura (I/Q)**
+- 💠 **Modulación QAM**
+- 📶 **Multiplexación OFDM**
+
+Este conocimiento será consolidado en:
+
+- 🧩 Un **dashboard interactivo en Streamlit**  
+- 🎥 Un **video explicativo en YouTube**
+
+El video se enviará como **link anexo al correo institucional** del profesor **Andrés Marino Álvarez Meza**.
 
 ---
 
 ## 📂 Estructura del Repositorio
 
 ```plaintext
-📁 PROYECTO
-│── Animación_Constelación_QAM.ipynb
-├── Dashboard_Proyecto.ipynb
-├── Modulación QAM en Wifi-5G.PNG
-├── README.MD
-│── Resumen_Conceptos_Clave.ipynb
-│── constelacion_qam.gif
+📁 PROYECTO/
+├── README.md                         <- Este archivo
+├── Resumen_Conceptos_Clave.ipynb    <- Explicación teórica con simulaciones
+├── Dashboard_Proyecto.ipynb         <- Código base del dashboard en Colab
+├── Animación_Constelación_QAM.ipynb <- Generador de GIF animado de 16-QAM
+├── constelacion_qam.gif             <- Animación de símbolos QAM transmitidos
+├── Modulación QAM en Wifi-5G.PNG    <- Diagrama de bloques explicativo
 
