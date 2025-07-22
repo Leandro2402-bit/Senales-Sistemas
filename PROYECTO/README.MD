@@ -29,10 +29,8 @@ El video explicativo sera enviado como anexo en link de YouTube al correo instit
 ## 📂 Estructura del Repositorio
 
 ```plaintext
-📁 ProyectoFinal_SyS_2025/
-├── 📁 notebooks/
-│   ├── resumen_conceptos.ipynb
-│   └── simulaciones_por_fases.ipynb
-├── 📁 dashboard/
+📁 PROYECTO
+│── ├── resumen_conceptos_Clave.ipynb
+├── 📁 dashboard
 ├── 📜 README.md
 
