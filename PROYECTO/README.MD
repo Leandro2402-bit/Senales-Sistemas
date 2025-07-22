@@ -30,7 +30,8 @@ El video explicativo sera enviado como anexo en link de YouTube al correo instit
 
 ```plaintext
 📁 PROYECTO
-│── Resumen_Conceptos_Clave.ipynb
+│── Animación_Constelación_QAM.ipynb
 ├── Dashboard_Proyecto
-├── 📜 README.md
+├── 📜 README.MD
+│── Resumen_Conceptos_Clave.ipynb
 
