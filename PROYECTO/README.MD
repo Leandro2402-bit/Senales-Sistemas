@@ -34,7 +34,7 @@ Este conocimiento será consolidado en:
 - 🧩 Un **dashboard interactivo en Streamlit**  
 - 🎥 Un **video explicativo en YouTube**
 
-El video se enviará como **link anexo al correo institucional** del profesor **Andrés Marino Álvarez Meza**.
+El video explicativo de este proyecto esta en este enlace de YouTube: https://www.youtube.com/watch?v=uVruzTsivnA&ab_channel=LeandroZapataMarin
 
 ---
 
